@@ -1,2 +1,5 @@
-# mini-project-hangman
-Hangman game, mini project made during Ironhack's DA Bootcamp
+# Hangman game
+Repo includes:
+- Hangman game in .py file
+- .txt files the game needs to run
+- Tiny .py program to edit large .txt files
