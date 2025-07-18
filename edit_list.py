@@ -1,5 +1,5 @@
 """
-Takes a .txt list of words and creates a new file and creates a new .txt list removing all words under 3 letters.
+Takes a .txt list of words and creates a new .txt list removing all words under 3 letters.
 Usage: python edit_list.py <input_file> <output_file>
 """
 
